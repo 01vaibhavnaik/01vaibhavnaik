@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" height="300" overflow="hiddien" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif?cid=ecf05e47gkjg66zx49y7xeh4oao0quj5ieg5ar2o38qcqw81&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01vaibhavnaik&label=Profile%20views&color=0e75b6&style=flat" alt="01vaibhavnaik" /> </p>
 
-- 📫 How to reach me **vaibhavnaik@gmail.com**
+- 📫 How to reach me **vaibhavnaik32275@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
