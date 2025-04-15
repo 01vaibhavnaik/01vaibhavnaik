@@ -1,9 +1,12 @@
 
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="150%" height="150">
 
-
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">Code. Commit. Create.</h3>
+<p align="center">
+  <a href="https://github.com/01vaibhavnaik/01vaibhavnaik">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+Iam+Vaibhav;Welcome+to+my+Github+page;I+am+Vaibhav;I+am+a+Java+Web+Developer;😄">
+  </a>
+</p>
 
 <img align="right" alt="Coding" width="400" height="300" overflow="hiddien" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif?cid=ecf05e47gkjg66zx49y7xeh4oao0quj5ieg5ar2o38qcqw81&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01vaibhavnaik&label=Profile%20views&color=0e75b6&style=flat" alt="01vaibhavnaik" /> </p>
