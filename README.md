@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <p align="center">
   <a href="https://github.com/01vaibhavnaik/01vaibhavnaik">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+Iam+Vaibhav;Welcome+to+my+Github+page;I+am+Vaibhav;I+am+a+Java+Web+Developer;😄">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+I+am+Vaibhav;Welcome+to+my+Github+page;I+am+a+Java+Web+Developer;Thank+you+for+visiting+my+page;😄">
   </a>
 </p>
 
