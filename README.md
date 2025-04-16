@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=01vaibhavnaik&theme=dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=01vaibhavnaik theme=dark" alt="GitHub Streak"/>
 </p>
 
 <hr/>
