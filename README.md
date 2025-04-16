@@ -30,9 +30,6 @@
 
 
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-kappa.vercel.app?user=01vaibhavnaik&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
 
 <hr/>
 
