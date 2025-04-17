@@ -47,7 +47,7 @@
 <p align="left">
 
    
-<a href="https://linkedin.com/in/vaibhav naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav naik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaibhav-naik-953928261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav naik" height="30" width="40" /></a>
  <a href="https://twitter.com/vaibhavnaik0104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavnaik0104" height="30" width="40" /></a>
 
 <a href="https://instagram.com/vaibhav_._naik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_._naik_" height="30" width="40" /></a>
