@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" height="300" overflow="hiddien" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif?cid=ecf05e47gkjg66zx49y7xeh4oao0quj5ieg5ar2o38qcqw81&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" height="300" overflow="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01vaibhavnaik&label=Profile%20views&color=0e75b6&style=flat" alt="01vaibhavnaik" /> </p>
 
 - 📫 How to reach me **vaibhavnaik32275@gmail.com**
