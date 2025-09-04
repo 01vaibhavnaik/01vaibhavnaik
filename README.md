@@ -25,7 +25,7 @@
 </a>
 </div>
 
-## 🚀 Tech Summary:  
+# 🚀 Tech Summary:  
 
 ### 👨‍💻 Java & Backend
 - ✅ Core Java → OOPs, Exception Handling, Multithreading  
