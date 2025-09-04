@@ -1,18 +1,47 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Vaibhav%20Naik&animation=fadeIn&textBg=false)
+
+</div>
+
 <p align="center">
-  <img src="https://github.com/01vaibhavnaik/01vaibhavnaik/blob/main/Banner2.JPG" 
-       alt="Profile Banner"
-       style="width: 1500px; height: 130px; " />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vaibhav+Naik;Software+Intern+%40+X-workz;Enterprise+Web+App+Developer;I+love+responsive+UIs+%26+clean+systems" alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="https://github.com/01vaibhavnaik/01vaibhavnaik">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&lines=Hi+I+am+Vaibhav;Welcome+to+my+Github+page;I+am+a+Software+Developer;Thank+you+for+visiting+my+page;😄">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=43265D,8E44AD,B16BD6,7F5CA2" />
+</p>
+
+## 🪄 About Me  
+🔭 Currently working as a **Software Intern at X-workz**, specializing in **Enterprise Web Application Development**.  
+🌱 Passionate about **building responsive systems** and sleek **web application interfaces**.  
+
+<div align="center">
+  <a href="mailto:vaibhavnaik32275@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vaibhavnaik32275%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=01vaibhavnaik&label=Profile%20views&color=0e75b6&style=flat" alt="01vaibhavnaik" /> </p>
+  <a href="https://01vaibhavnaik.github.io/Protfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+  <a href="https://01vaibhavnaik.github.io/Protfolio/Vaibhav-Naik-CV(1).pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-2ECC71?style=for-the-badge&logo=markdown&logoColor=white" />
+</a>
+</div>
 
- 💫 About Me:
-<br><br>🔭 I’m currently working as a Software Intern at X-workz, specializing in Enterprise Web Application Development.<br>🌱 I’m passionate about building responsive systems and  web application interfaces.<br>📫 Reach me at: vaibhavnaik32275@gmail.com<br> My Portfolia: https://01vaibhavnaik.github.io/Protfolio/ <br><br>⸻<br><br>🚀 Tech Summary<br><br>👨‍💻 Java & Backend<br><br>✔️ Proficient in Core Java – OOPs, Exception Handling, Multithreading<br>✔️ Strong with Collections Framework – List, Set, Map, Queue, and their implementations<br>✔️ Hands-on with Streams & Lambda Expressions – Functional-style programming for data processing<br>✔️ Skilled in JDBC – Establishing DB connections and executing CRUD operations<br>✔️ Experience in Servlets & JSP – Implementing MVC using DTO, Service & Repository layers<br>✔️ Practical knowledge of Spring Framework – IoC container, bean lifecycle, component wiring<br>✔️ Familiar with JPA (Java Persistence API) – ORM mapping and CRUD using annotations<br>✔️ Comfortable using Lombok – Simplifying boilerplate with annotations like @Data, @Getter, etc.<br><br>🌐 Frontend Development<br><br>✔️ Good grasp of HTML, CSS, JavaScript – Page structure, styling, and form validation<br>✔️ Skilled in Bootstrap 5 – Grid system, responsive layouts, navbars, buttons, and utility classes
+## 🚀 Tech Summary  
 
+### 👨‍💻 Java & Backend
+- ✅ Core Java → OOPs, Exception Handling, Multithreading  
+- ✅ Collections Framework → List, Set, Map, Queue & implementations  
+- ✅ Streams & Lambda → Functional programming for data processing  
+- ✅ JDBC → DB connections & CRUD operations  
+- ✅ Servlets & JSP → MVC using DTO, Service & Repository layers  
+- ✅ Spring Framework → IoC container, bean lifecycle, component wiring  
+- ✅ JPA (Hibernate) → ORM mapping & CRUD via annotations  
+- ✅ Lombok → Annotations like `@Data`, `@Getter` for clean code  
+
+### 👨‍💻 Frontend Development
+- 🎨 HTML, CSS, JavaScript → Structure, styling, and validation  
+- 🎯 Bootstrap 5 → Responsive layouts, grid system, navbars, utility classes  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhav_._naik_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vaibhav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavnaik32275@gmail.com) 
