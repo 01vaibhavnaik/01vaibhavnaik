@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Vaibhav%20Naik&animation=fadeIn&textBg=false)
+<img src="">
 
 </div>
 
