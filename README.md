@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/01vaibhavnaik/01vaibhavnaik/blob/main/VaibhavBanner2.png" width="950">
+  <img src="https://github.com/01vaibhavnaik/01vaibhavnaik/blob/main/VaibhavBanner1.png" width="850">
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=43265D,8E44AD,B16BD6,7F5CA2" />
