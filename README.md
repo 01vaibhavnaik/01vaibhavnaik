@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="">
-
+<img src="https://github.com/01vaibhavnaik/01vaibhavnaik/blob/main/VaibhavBanner1.png" >
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vaibhav+Naik;Software+Intern+%40+X-workz;Enterprise+Web+App+Developer;I+love+responsive+UIs+%26+clean+systems" alt="Typing SVG" />
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=43265D,8E44AD,B16BD6,7F5CA2" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vaibhav+Naik;Software+Intern+%40+X-workz;Enterprise+Web+App+Developer;I+love+responsive+UIs+%26+clean+systems" alt="Typing SVG" />
+</p>
+
 
 ## 🪄 About Me  
 🔭 Currently working as a **Software Intern at X-workz**, specializing in **Enterprise Web Application Development**.  
