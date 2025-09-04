@@ -6,8 +6,9 @@
 </p>
 
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=I'am%2C+Vaibhav+Naik;Software+Intern+%40+X-workz;I+build+responsive+web+apps;&gradient=FFD700,FF8C00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=I'am%2C+Vaibhav+Naik;Software+Intern+%40+X-workz;I+build+responsive+web+apps;&color=FFA500" alt="Typing SVG" />
 </p>
+
 
 ## 🪄 About Me  
 🔭 Currently working as a **Software Intern at X-workz**, specializing in **Enterprise Web Application Development**.  
