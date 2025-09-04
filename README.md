@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://github.com/01vaibhavnaik/01vaibhavnaik/blob/main/VaibhavBanner01.png" width="800">
+  <img src="https://github.com/01vaibhavnaik/01vaibhavnaik/blob/main/VaibhavBanner2.png" width="800">
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=43265D,8E44AD,B16BD6,7F5CA2" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=I'am%2C+Vaibhav+Naik;Software+Intern+%40+X-workz;I+build+responsive+web+apps;&gradient=FFFF00,FFA500" alt="Typing SVG" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=I'am%2C+Vaibhav+Naik;Software+Intern+%40+X-workz;I+build+responsive+web+apps;&gradient=FFD700,FF8C00" alt="Typing SVG" />
 </p>
 
 ## 🪄 About Me  
