@@ -19,10 +19,10 @@
   <a href="mailto:vaibhavnaik32275@gmail.com">
     <img src="https://img.shields.io/badge/Email-vaibhavnaik32275%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-<a href="https://01vaibhavnaik.github.io/Protfolio/" target="_blank">
+<a href="https://01vaibhavnaik.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF7518?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://01vaibhavnaik.github.io/Protfolio/Vaibhav-Naik-CV(1).pdf" target="_blank">
+<a href="https://01vaibhavnaik.github.io/Portfolio/Vaibhav-Naik-CV(1).pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Download-FF9900?style=for-the-badge&logo=markdown&logoColor=white" />
 </a>
 
