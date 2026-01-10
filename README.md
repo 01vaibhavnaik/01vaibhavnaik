@@ -54,14 +54,7 @@
  <img src="https://nirzak-streak-stats.vercel.app/?user=01vaibhavnaik&theme=radical&ring=FF7518&fire=FF9900&currStreakNum=FF9900&sideNums=FF7518&currStreakLabel=FF9900&sideLabels=FF7518&dates=FFFFFF&hide_border=false" />
 </p>
 
-  <hr>
-  <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=01vaibhavnaik&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </p>
-  <hr>
-    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01vaibhavnaik&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+ 
 
 
 
