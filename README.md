@@ -28,21 +28,29 @@
 
 </div>
 
-# 🚀 Tech Summary:  
+## 🚀 Tech Stack  
 
-### 👨‍💻 Java & Backend
-- ✅ Core Java → OOPs, Exception Handling, Multithreading  
-- ✅ Collections Framework → List, Set, Map, Queue & implementations  
-- ✅ Streams & Lambda → Functional programming for data processing  
-- ✅ JDBC → DB connections & CRUD operations  
-- ✅ Servlets & JSP → MVC using DTO, Service & Repository layers  
-- ✅ Spring Framework → IoC container, bean lifecycle, component wiring  
-- ✅ JPA (Hibernate) → ORM mapping & CRUD via annotations  
-- ✅ Lombok → Annotations like `@Data`, `@Getter` for clean code  
+### 👨‍💻 Backend & Java  
+- ☕ Core Java (OOPs, Multithreading, Exception Handling)  
+- 📦 Collections Framework, Streams & Lambda  
+- 🔗 JDBC, Servlets & JSP (MVC Architecture)  
+- 🌱 Spring Framework (IoC, Dependency Injection)  
+- 🗄️ JPA / Hibernate (ORM, Entity Mapping)  
+- ✨ Lombok  
 
-### 👨‍💻 Frontend Development
-- 🎨 HTML, CSS, JavaScript → Structure, styling, and validation  
-- 🎯 Bootstrap 5 → Responsive layouts, grid system, navbars, utility classes  
+### ⚛️ Frontend  
+- 🎨 HTML, CSS, JavaScript  
+- 🎯 Bootstrap 5  
+- ⚛️ React.js (Components, Hooks, State & Props)  
+
+### 🗄️ Databases  
+- 🐘 PostgreSQL  
+- 🛢️ MySQL  
+
+### 🛠️ Tools  
+- 🔧 Git & GitHub  
+- 💻 IntelliJ / Eclipse  
+- 🧠 VS Code  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhav_._naik_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vaibhav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavnaik32275@gmail.com) 
