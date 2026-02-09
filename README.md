@@ -22,7 +22,7 @@
 <a href="https://01vaibhavnaik.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF7518?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://01vaibhavnaik.github.io/Portfolio/Vaibhav-Naik-CV(1).pdf" target="_blank">
+<a href="https://01vaibhavnaik.github.io/Portfolio/Vaibhav-Naik-CV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Download-FF9900?style=for-the-badge&logo=markdown&logoColor=white" />
 </a>
 
